@@ -1,0 +1,1 @@
+Web application developed using JDBC and Servlet where I have implemented CRUD operations like registering ,editing, deleting and viewing books details. I have used MySQL database to maintain the records and tomcat server to host the program in local device.
